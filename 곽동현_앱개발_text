@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">위젯</string>  <!--//app_name을 위젯으로 지정-->
+    <string name="button_text">나는 버튼입니다</string>  <!--button_text를 나는 버튼입니다로 지정-->
+    <string name="hello">안녕하세요</string>      <!--hello를 안녕하세요로 지정-->
+</resources>
