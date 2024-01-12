@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>   <!--black을 색상 FF000000으로 지정-->
+    <color name="white">#FFFFFFFF</color>   <!--white를 색상 FFFFFFFF로 지정-->
+    <color name="text_color">#CC1616</color>  <!--text_color를 색상 CC1616으로 지정-->
+</resources>
